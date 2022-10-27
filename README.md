@@ -11,7 +11,7 @@ Projeto desenvolvido para a criação de uma listagem dos filmes mais populares 
 </h4>
 
 
-### O que funciona
+## ✔️O que funciona
 
 - O usuário tem acesso a uma listagem dos filme mais populares do dia
 - Página de detalhes sobre o filme, ao clicar em um item na listagem
@@ -25,7 +25,7 @@ Funcionalidades extra:
 - O usuário pode pesquisar um filme utilizando o input search localizado no header 
 - Botão de voltar à tela inicial na página de detalhes 
 
-### 🔗Link Surge  
+## 🔗Link Surge  
 
 [Promobit-Challenge](http://tmdb-challenge.surge.sh/)
 
@@ -41,7 +41,7 @@ Siga o passo-a-passo abaixo:
 
 Por padrão a aplicação rodará localmente na porta 3000.
 
-### 📚Bibliotecas Utilizadas
+## 📚Bibliotecas Utilizadas
 
 - axios
 - material-ui
